@@ -1,0 +1,12 @@
+{
+name: "random-creation"
+displayName: "random creation"
+author: Randonguyinternet
+description: "try it, kind of fun tho"
+main:"RDC.randomcreation"
+java: true
+version: "1.0"
+minGameVersion:"146"
+dependencies: []
+hidden: false
+}
